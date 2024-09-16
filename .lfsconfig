@@ -1,1 +1,2 @@
+[lfs]
 url = "ssh://ansys@support-team-red-ansys2.jfrog.farm:1339/artifactory/ansys-gitlfs-local/"
